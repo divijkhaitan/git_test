@@ -1,0 +1,1 @@
+This is to get a feel for how git works
